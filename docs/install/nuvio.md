@@ -5,7 +5,7 @@ description: How to install Nuvio on Android and iOS
 
 # Install Nuvio
 
-[Nuvio](https://nuvioapp.space/) is a media player for **Android** and **iOS** that supports Stremio addons. Once it’s installed, you’ll follow the same addon setup as the rest of this guide.
+[Nuvio](https://nuvioapp.space/) is a media player for **Android** and **iOS** that uses the same addons as this guide.
 
 ## Android
 
@@ -29,7 +29,7 @@ Nuvio supports multiple profiles (default: “Profile 1”). You can rename or a
 ::::
 
 :::: tip Addons
-Nuvio uses the same Stremio addon ecosystem.
+Same addons as the rest of this guide.
 ::::
 
 ## Next step
