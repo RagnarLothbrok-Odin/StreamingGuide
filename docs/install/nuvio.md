@@ -5,7 +5,7 @@ description: How to install Nuvio on Android and iOS
 
 # Install Nuvio
 
-[Nuvio](https://nuvioapp.space/) is a media player for **Android** and **iOS** that uses the same addons as this guide.
+[Nuvio](https://nuvioapp.space/) is a media player for **Android** and **iOS**.
 
 ## Android
 
@@ -26,10 +26,6 @@ description: How to install Nuvio on Android and iOS
 
 :::: tip Profiles
 Nuvio supports multiple profiles (default: “Profile 1”). You can rename or add more later in settings.
-::::
-
-:::: tip Addons
-Same addons as the rest of this guide.
 ::::
 
 ## Next step
