@@ -3,9 +3,9 @@ title: FanArt Account
 description: Step-by-step guide to create your FanArt account
 ---
 
-# FanArt Account (Optional)
+# FanArt Account
 
-FanArt provides high‑quality artwork for posters and backdrops. We’ll use its free API.
+FanArt provides high‑quality artwork for posters and backdrops.
 
 ## Create Your Account
 
