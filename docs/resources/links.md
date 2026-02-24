@@ -6,8 +6,8 @@ description: Official sites, addon pages, and services referenced throughout thi
 # Configuration
 
 Our carefully crafted configuration files:
-- [AIOStreams template](https://share.valhalladev.org/u/stremioguide-configuration-template.json)
-- [AIOStreams template (*direct download*)](https://share.valhalladev.org/u/stremioguide-configuration-template.json?download=true)
+- [AIOStreams template](https://share.valhalladev.org/u/streaming-guide-configuration-template.json)
+- [AIOStreams template (*direct download*)](https://share.valhalladev.org/u/streaming-guide-configuration-template.json?download=true)
 - [AIOMetadata config](https://share.valhalladev.org/u/aiometadata-config.json?download=true)
 
 # Links
@@ -18,11 +18,21 @@ A curated set of official pages and tools used in this guide.
 - [Stremio](https://www.stremio.com)
 - [Stremio Addon Browser](https://stremio-addons.net)
 - [Cinebye](https://cinebye.dinsden.top)
+- [Discord](https://discord.com/servers/stremio-community-667359689780101130)
+
+### Nuvio
+- [Nuvio](https://nuvioapp.space/)
+- [NuvioTV](https://github.com/tapframe/NuvioTV)
+- [Discord](https://discord.gg/KVgDTjhA4H)
+
+### Omni
+- [Omni](https://omni.stkc.win/)
+- [Discord](https://discord.com/invite/MkCvXWjeAx)
 
 ### Addons
 - [AIOStreams](https://github.com/Viren070/AIOStreams)
 - [AIOStreams Discord](https://discord.viren070.me)
-- [AIOMetadata](https://aiometadatafortheweak.nhyira.dev)
+- [AIOMetadata](https://github.com/cedya77/aiometadata)
 - [Torrentio](https://torrentio.strem.fun)
 - [Comet](https://comet.elfhosted.com)
 - [MediaFusion](https://mediafusion.elfhosted.com)
@@ -37,7 +47,7 @@ A curated set of official pages and tools used in this guide.
 - [Debrid Comparison](https://github.com/fynks/debrid-services-comparison)
 
 ## Special Thanks
-- The Stremio team for tirelessly maintaining the app
+- The Stremio, Nuvio, and Omni teams for tirelessly maintaining their respective apps
 - All addon developers who build and maintain the ecosystem
 - [Viren070](https://github.com/Viren070) for the countless hours poured into `AIOStreams`, unifying many addons under one configurable experience
 
