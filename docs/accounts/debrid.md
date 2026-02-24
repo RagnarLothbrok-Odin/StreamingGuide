@@ -20,13 +20,10 @@ For most users, **Real‑Debrid** offers the best value. If you need multi‑IP,
 ## Choose a Provider
 
 Listing every option is nearly impossible. The two main ones are **Real-Debrid** and **Premiumize**, but many others are supported.  
-For a detailed comparison, see this community-maintained chart:  
-https://debridcompare.xyz/#debrid-pricing-comparison
-
 
 - Real‑Debrid - [real-debrid.com](https://real-debrid.com/)
 - Premiumize - [premiumize.me](https://www.premiumize.me/)
-- TorBox - [torbox.app](https://www.torbox.app/) (fair‑use multi‑IP; smaller cache than RD)
+- TorBox - [torbox.app](https://www.torbox.app/)
 
 ## Create Your Account
 
@@ -37,9 +34,8 @@ https://debridcompare.xyz/#debrid-pricing-comparison
 ## Get Your API Token (You’ll Paste It Later)
 
 - Real‑Debrid: [API token page](https://real-debrid.com/apitoken)
-- TorBox: account dashboard → API / Access token
-
-Copy the token-you’ll paste it into AIOStreams during addon setup.
+- TorBox: [account dashboard](https://torbox.app/settings?section=account) → scroll down to `API Key` → click `Copy API Key`
+- Premiumize: [account page](https://www.premiumize.me/account) → click `Show API Key`
 
 :::: info IP Restrictions
 Some providers limit simultaneous usage from multiple IPs. TorBox is more flexible; Real‑Debrid prioritizes speed and cache size.
