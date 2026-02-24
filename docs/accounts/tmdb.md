@@ -14,10 +14,10 @@ TMDB provides rich movie/TV metadata used by AIOMetadata and improves title matc
 
 ## Get Your API Key
 
-1. Go to your profile → **Settings** → **API**
+1. Visit your [settings page](https://www.themoviedb.org/settings/api)
 2. Create a new API key (read access is sufficient for our use)
 3. Copy the key-you’ll paste it into AIOMetadata/AIOStreams later
 
 :::: tip Why TMDB?
-Better metadata and matching than Stremio’s default provider; pairs well with TVDB for TV coverage.
+Better metadata and matching than your apps default provider; pairs well with TVDB for TV coverage.
 ::::
