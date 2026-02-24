@@ -6,14 +6,14 @@ title: 'Streaming Guide'
 hero:
   name: "Streaming Guide"
   text: "Nuvio · Omni · Stremio"
-  tagline: One setup. Same addons, same config. Only the app you install is different.
+  tagline: One guide. Same addons. Nuvio · Omni · Stremio.
   actions:
     - theme: brand
       text: Get Started
       link: install/overview
     - theme: alt
       text: Addons
-      link: addons/aiostreams
+      link: addons/aiometadata
     - theme: alt
       text: Configuration
       link: configuration/formatter

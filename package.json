@@ -1,7 +1,7 @@
 {
   "name": "streaming-guide",
   "version": "2.0.0",
-  "description": "One setup guide for Nuvio, Omni, and Stremio-same addons, same config; only the app install step differs.",
+  "description": "One guide. Same addons. Nuvio · Omni · Stremio.",
   "license": "GPL-3.0-or-later",
   "author": "Ragnar Lothbrok <ragnarlothbrokjr@proton.me>",
   "homepage": "https://github.com/RagnarLothbrok-Odin/StremioGuide#readme",

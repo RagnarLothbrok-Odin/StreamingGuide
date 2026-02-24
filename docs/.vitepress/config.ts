@@ -5,8 +5,7 @@ export default defineConfig({
     base: '/',
     lang: 'en-US',
     title: 'Streaming Guide',
-    description:
-        'One setup guide for Nuvio, Omni, and Stremio-same addons, same config; only the app install step differs.',
+    description: 'One guide. Same addons. Nuvio · Omni · Stremio.',
 
     lastUpdated: true,
     cleanUrls: true,
@@ -28,8 +27,7 @@ export default defineConfig({
             'meta',
             {
                 property: 'og:description',
-                content:
-                    'One setup guide for Nuvio, Omni, and Stremio-same addons, same config; only the app install step differs.',
+                content: 'One guide. Same addons. Nuvio · Omni · Stremio.',
             },
         ],
         ['meta', { property: 'og:image', content: 'https://streaming.valhalladev.org/logo.png' }],
@@ -43,8 +41,7 @@ export default defineConfig({
             'meta',
             {
                 property: 'twitter:description',
-                content:
-                    'One setup guide for Nuvio, Omni, and Stremio-same addons, same config; only the app install step differs.',
+                content: 'One guide. Same addons. Nuvio · Omni · Stremio.',
             },
         ],
         [
@@ -71,7 +68,7 @@ export default defineConfig({
 
         nav: [
             { text: 'Home', link: '/' },
-            { text: 'Addons', link: '/addons/aiostreams' },
+            { text: 'Addons', link: '/addons/aiometadata' },
             { text: 'Configuration', link: '/configuration/formatter' },
             { text: 'Resources', link: '/resources/links' },
         ],

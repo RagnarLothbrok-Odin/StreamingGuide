@@ -11,7 +11,7 @@
     <a href="#"><img src="https://img.shields.io/badge/Made%20with-vitepress-8877ff?style=for-the-badge&logo=vitepress&logoColor=white" alt="Made with VitePress"></a>
   </p>
 
-  <p><em>One setup guide for <strong>Nuvio</strong>, <strong>Omni</strong>, and <strong>Stremio</strong>-same addons, same config; only the app install step differs.</em></p>
+  <p><em>One guide. Same addons. <strong>Nuvio</strong> · <strong>Omni</strong> · <strong>Stremio</strong>.</em></p>
 </div>
 
 <h2 id="contributing">Contributing</h2>
