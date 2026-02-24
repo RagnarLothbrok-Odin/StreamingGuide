@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎬 Stremio Guide 🚀
+# 🎬 Streaming Guide 🚀
 
   <p>
     <a href="https://discord.gg/Q3ZhdRJ"><img src="https://img.shields.io/discord/495602800802398212.svg?colorB=5865F2&logo=discord&logoColor=white&style=for-the-badge" alt="Discord"></a>
@@ -11,7 +11,7 @@
     <a href="#"><img src="https://img.shields.io/badge/Made%20with-vitepress-8877ff?style=for-the-badge&logo=vitepress&logoColor=white" alt="Made with VitePress"></a>
   </p>
 
-  <p><em>A comprehensive guide for setting up Stremio streaming application with addons, configurations, and optimization tips.</em></p>
+  <p><em>One setup guide for <strong>Nuvio</strong>, <strong>Omni</strong>, and <strong>Stremio</strong>-same addons, same config; only the app install step differs.</em></p>
 </div>
 
 <h2 id="contributing">Contributing</h2>
