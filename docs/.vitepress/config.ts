@@ -4,8 +4,8 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   base: '/',
   lang: 'en-US',
-  title: "Stremio Guide",
-  description: "A comprehensive guide for setting up Stremio streaming application with addons, configurations, and optimization tips.",
+  title: "Streaming Guide",
+  description: "One setup guide for Nuvio, Omni, and Stremio-same addons, same config; only the app install step differs.",
 
   lastUpdated: true,
   cleanUrls: true,
@@ -15,27 +15,27 @@ export default defineConfig({
     ['meta', { name: 'theme-color', content: '#1155D9' }],
     ["meta", { name: "apple-mobile-web-app-capable", content: "yes" }],
     ["meta", { name: "apple-mobile-web-app-status-bar-style", content: "black" }],
-    ["meta", { name: "apple-mobile-web-app-title", content: "Stremio Guide" }],
-    ["meta", { name: "application-name", content: "Stremio Guide" }],
+    ["meta", { name: "apple-mobile-web-app-title", content: "Streaming Guide" }],
+    ["meta", { name: "application-name", content: "Streaming Guide" }],
     ["meta", { name: "msapplication-TileColor", content: "#000000" }],
     ["meta", { name: "theme-color", content: "#1155D9" }],
     ["meta", { name: "viewport", content: "width=device-width, initial-scale=1" }],
-    ["meta", { property: "og:title", content: "Stremio | Guide" }],
+    ["meta", { property: "og:title", content: "Streaming Guide | Nuvio, Omni & Stremio" }],
     ["meta", { property: "og:type", content: "website" }],
     ["meta", { property: "og:url", content: "https://stremio.valhalladev.org/" }],
-    ["meta", { property: "og:description", content: "A comprehensive guide for setting up Stremio streaming application with addons, configurations, and optimization tips." }],
+    ["meta", { property: "og:description", content: "One setup guide for Nuvio, Omni, and Stremio-same addons, same config; only the app install step differs." }],
     ["meta", { property: "og:image", content: "https://stremio.valhalladev.org/logo.png" }],
     ["meta", { property: "og:image:width", content: "400" }],
     ["meta", { property: "og:image:height", content: "400" }],
-    ["meta", { property: "og:image:alt", content: "Stremio | Guide" }],
+    ["meta", { property: "og:image:alt", content: "Streaming Guide | Nuvio, Omni & Stremio" }],
     ["meta", { property: "og:image:type", content: "image/png" }],
     ["meta", { property: "twitter:url", content: "https://stremio.valhalladev.org/" }],
-    ["meta", { property: "twitter:title", content: "Stremio | Guide" }],
-    ["meta", { property: "twitter:description", content: "A comprehensive guide for setting up Stremio streaming application with addons, configurations, and optimization tips" }],
+    ["meta", { property: "twitter:title", content: "Streaming Guide | Nuvio, Omni & Stremio" }],
+    ["meta", { property: "twitter:description", content: "One setup guide for Nuvio, Omni, and Stremio-same addons, same config; only the app install step differs." }],
     ["meta", { property: "twitter:image", content: "https://stremio.valhalladev.org/logo.png" }],
-    ["meta", { property: "twitter:image:alt", content: "Stremio | Guide" }],
-    ["meta", { property: "owner", content: "Stremio" }],
-    ["meta", { property: "author", content: "Stremio" }]
+    ["meta", { property: "twitter:image:alt", content: "Streaming Guide | Nuvio, Omni & Stremio" }],
+    ["meta", { property: "owner", content: "Streaming Guide" }],
+    ["meta", { property: "author", content: "Streaming Guide" }]
   ],
 
   themeConfig: {
@@ -50,7 +50,7 @@ export default defineConfig({
 
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Addons', link: '/addons/overview' },
+      { text: 'Addons', link: '/addons/aiostreams' },
       { text: 'Configuration', link: '/configuration/formatter' },
       { text: 'Resources', link: '/resources/links' },
     ],
@@ -70,6 +70,16 @@ export default defineConfig({
 
     sidebar: [
       {
+        text: 'Install your app',
+        collapsed: false,
+        items: [
+          { text: 'Overview', link: '/install/overview' },
+          { text: 'Nuvio', link: '/install/nuvio' },
+          { text: 'Omni', link: '/install/omni' },
+          { text: 'Stremio', link: '/install/stremio' },
+        ],
+      },
+      {
         text: 'Getting Started',
         items: [
           { text: 'Overview', link: '/overview' },
@@ -79,14 +89,12 @@ export default defineConfig({
         text: 'Account Creation',
         collapsed: false,
         items: [
-          { text: 'Overview', link: '/accounts/overview' },
-          { text: 'Stremio', link: '/accounts/stremio' },
-          { text: 'Trakt', link: '/accounts/trakt' },
           { text: 'Debrid', link: '/accounts/debrid' },
+          { text: 'Trakt (optional)', link: '/accounts/trakt' },
           { text: 'TMDB', link: '/accounts/tmdb' },
           { text: 'TVDB', link: '/accounts/tvdb' },
-          { text: 'FanArt', link: '/accounts/fanart' },
-          { text: 'RPDB', link: '/accounts/rpdb' },
+          { text: 'FanArt (optional)', link: '/accounts/fanart' },
+          { text: 'RPDB (optional)', link: '/accounts/rpdb' },
         ],
       },
       {
@@ -94,14 +102,13 @@ export default defineConfig({
         collapsed: false,
         items: [
           { text: 'Cinebye', link: '/preparations/cinebye' },
-          { text: 'Trakt', link: '/preparations/trakt' },
+          { text: 'Trakt (optional)', link: '/preparations/trakt' },
         ],
       },
       {
         text: "Installing Addons",
         collapsed: false,
         items: [
-          { text: 'Overview', link: '/addons/overview' },
           { text: 'AIOStreams', link: '/addons/aiostreams' },
           { text: 'AIOMetadata', link: '/addons/aiometadata' },
           { text: 'Cinebye', link: '/addons/cinebye' },
