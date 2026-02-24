@@ -32,10 +32,10 @@ Navigate to the instance you picked [here](#choose-an-instance).
 - Paste this URL (use the copy button):
 
   ```text
-  https://share.valhalladev.org/u/stremioguide-configuration-template.json
+  https://share.valhalladev.org/u/streaming-guide-configuration-template.json
   ```
 
-  Or [download directly](https://share.valhalladev.org/u/stremioguide-configuration-template.json?download=true) and use “Import from File”.  
+  Or [download directly](https://share.valhalladev.org/u/streaming-guide-configuration-template.json?download=true) and use “Import from File”.  
 - Select `Go` followed by `Use This Template Now`
 
 ### 3) Select Services
