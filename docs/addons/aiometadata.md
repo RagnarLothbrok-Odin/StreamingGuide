@@ -28,6 +28,7 @@ AIOMetadata replaces default metadata with richer info from TMDB/TVDB plus optio
   - **TVDB**: paste your [key](/accounts/tvdb#get-your-api-key-create-an-app)
   - **FanArt**: optional; paste key ([FanArt account](/accounts/fanart))
   - **RPDB**: optional; use `t0-free-rpdb` or your own key ([RPDB account](/accounts/rpdb#option-b-patreon-subscription))
+  - **MDBList**: paste your [key](/accounts/mdblist#get-your-api-key)
 
 ### Catalog Management
 Drag to reorder catalogs in the `Catalogs` page; disable by toggling the 👁️ icon on the corresponding catalog item.
