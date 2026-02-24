@@ -5,7 +5,7 @@ Thank you for your interest in contributing to our project! We value all our con
 Before contributing, please take a moment to read and understand these guidelines. They are intended to ensure that everyone understands what is expected, and to help make the process efficient and effective for everyone involved.
 
 ## Creating a Pull Request 
-More in-depth tutorial at [Contributing In-Depth Tutorial](https://stremio.valhalladev.org/contributing)
+More in-depth tutorial at [Contributing In-Depth Tutorial](https://streaming.valhalladev.org/contributing)
 
 1. Make sure that your code does not include any unnecessary files or dependencies. These should be removed before the end of the layer when doing a build.
 2. We ask that you follow our formatting practices. While we do not enforce strict styles, consistency with the existing codebase makes the project easier to understand and maintain.

@@ -23,7 +23,7 @@ export default defineConfig({
         ['meta', { name: 'viewport', content: 'width=device-width, initial-scale=1' }],
         ['meta', { property: 'og:title', content: 'Streaming Guide | Nuvio, Omni & Stremio' }],
         ['meta', { property: 'og:type', content: 'website' }],
-        ['meta', { property: 'og:url', content: 'https://stremio.valhalladev.org/' }],
+        ['meta', { property: 'og:url', content: 'https://streaming.valhalladev.org/' }],
         [
             'meta',
             {
@@ -32,12 +32,12 @@ export default defineConfig({
                     'One setup guide for Nuvio, Omni, and Stremio-same addons, same config; only the app install step differs.',
             },
         ],
-        ['meta', { property: 'og:image', content: 'https://stremio.valhalladev.org/logo.png' }],
+        ['meta', { property: 'og:image', content: 'https://streaming.valhalladev.org/logo.png' }],
         ['meta', { property: 'og:image:width', content: '400' }],
         ['meta', { property: 'og:image:height', content: '400' }],
         ['meta', { property: 'og:image:alt', content: 'Streaming Guide | Nuvio, Omni & Stremio' }],
         ['meta', { property: 'og:image:type', content: 'image/png' }],
-        ['meta', { property: 'twitter:url', content: 'https://stremio.valhalladev.org/' }],
+        ['meta', { property: 'twitter:url', content: 'https://streaming.valhalladev.org/' }],
         ['meta', { property: 'twitter:title', content: 'Streaming Guide | Nuvio, Omni & Stremio' }],
         [
             'meta',
@@ -49,7 +49,7 @@ export default defineConfig({
         ],
         [
             'meta',
-            { property: 'twitter:image', content: 'https://stremio.valhalladev.org/logo.png' },
+            { property: 'twitter:image', content: 'https://streaming.valhalladev.org/logo.png' },
         ],
         [
             'meta',
