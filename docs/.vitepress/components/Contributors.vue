@@ -1,21 +1,25 @@
 <script setup lang="ts">
-import { ref, onMounted } from "vue";
+import { onMounted, ref } from 'vue';
 
 const contributors = ref([]);
 
 onMounted(async () => {
-  try {
-    const response = await fetch("https://api.github.com/repos/RagnarLothbrok-Odin/StremioGuide/contributors");
-    if (response.ok) {
-      const data = await response.json();
-      contributors.value = data.filter(contributor => contributor.login !== 'actions-user').map((contributor) => ({
-        name: contributor.login,
-        avatar: contributor.avatar_url,
-      }));
+    try {
+        const response = await fetch(
+            'https://api.github.com/repos/RagnarLothbrok-Odin/StremioGuide/contributors'
+        );
+        if (response.ok) {
+            const data = await response.json();
+            contributors.value = data
+                .filter((contributor) => contributor.login !== 'actions-user')
+                .map((contributor) => ({
+                    name: contributor.login,
+                    avatar: contributor.avatar_url,
+                }));
+        }
+    } catch {
+        /* ... */
     }
-  } catch {
-    /* ... */
-  }
 });
 </script>
 
