@@ -1,10 +1,10 @@
 ---
-description: Learn how to contribute to the Stremio Guide by following this step-by-step guide. Fork and clone the repository, set up your development environment, make changes, and submit a pull request for review. Start contributing today!
+description: Learn how to contribute to the Streaming Guide by following this step-by-step guide. Fork and clone the repository, set up your development environment, make changes, and submit a pull request for review. Start contributing today!
 ---
 
 # Contributing Guidelines
 
-We're delighted by your interest in contributing to the Stremio Guide! To streamline your contribution process, we have provided a detailed, step-by-step guide below.
+We're delighted by your interest in contributing to the Streaming Guide! To streamline your contribution process, we have provided a detailed, step-by-step guide below.
 
 ::: tip
 For ease of managing your contributions, we recommend using [GitHub Desktop](https://desktop.github.com/), a GUI-based GitHub client.
@@ -103,7 +103,7 @@ Follow these steps to create a pull request to propose merging your changes into
 
 ## What Can You Contribute?
 
-Here are some ways you can help improve the Stremio Guide:
+Here are some ways you can help improve the Streaming Guide:
 
 - **Fix typos or errors** - Spotted a mistake? Submit a quick fix!
 - **Update outdated information** - Help keep the guide current
@@ -112,4 +112,4 @@ Here are some ways you can help improve the Stremio Guide:
 - **Add screenshots** - Visual guides are always helpful
 - **Suggest improvements** - Have ideas? Open an issue to discuss
 
-Thank you for your commitment to improving the Stremio Guide! 🎬
+Thank you for your commitment to improving the Streaming Guide! 🎬
