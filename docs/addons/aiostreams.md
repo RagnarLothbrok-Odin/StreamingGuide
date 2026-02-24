@@ -66,4 +66,4 @@ Return to the save icon (💾) and click **Install**. Choose any method (e.g., *
 3. Click **Add Addon** (in the **Addons** section), paste the URL, set the name (e.g. **AIOStreams**), then click **Save**.
 
 #### Omni
-TODO
+*Coming soon.*
