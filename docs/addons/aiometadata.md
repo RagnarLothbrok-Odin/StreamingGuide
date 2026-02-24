@@ -49,4 +49,4 @@ Click **Install** and choose any method (e.g. **Stremio Web**). Confirm to add A
 3. Click **Add Addon** (in the **Addons** section), paste the URL, set the name (e.g. **AIOMetadata**), then click **Save**.
 
 #### Omni
-todo
+*Coming soon.*
