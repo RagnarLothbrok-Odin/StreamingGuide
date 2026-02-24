@@ -24,4 +24,4 @@ Same path (**Settings** → **Trakt**) on Android TV and other platforms.
 
 ## Omni
 
-TODO
+*Coming soon.*
