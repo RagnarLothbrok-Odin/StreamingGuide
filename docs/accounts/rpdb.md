@@ -19,6 +19,6 @@ RPDB overlays ratings on posters inside Stremio.
 
 Copy the key you choose-you’ll paste it during addon configuration.
 
-:::: tip Visual Only
-RPDB affects visuals, not availability or playback quality.
+:::: tip Why pay?
+The free key has limited customization. A paid subscription lets you customize how ratings look and which rating providers the API uses.
 ::::
