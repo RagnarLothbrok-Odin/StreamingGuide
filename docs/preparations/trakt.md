@@ -1,20 +1,27 @@
 ---
-title: Connecting Stremio with Trakt
-description: Step-by-step guide to connect your Stremio account with Trakt for watch history tracking
+title: Connect Trakt
+description: Connect Trakt for watch history and scrobbling—Stremio, Nuvio, or Omni
 ---
 
-# Connect Stremio with Trakt
+# Connect Trakt
 
-Enable automatic scrobbling so your watch history stays in sync.
+Connect Trakt so watch history and scrobbling stay in sync. Steps depend on your app.
 
-## Steps
+## Stremio
 
-1. Make sure you have a Trakt account → [/accounts/trakt](/accounts/trakt)
-2. Open: [https://www.stremio.com/login](https://www.stremio.com/login) and sign in
-3. Sidebar → **Integrations**
-4. Find **Trakt Scrobbling** → click **Authenticate**
-5. Complete the prompts in the new tab
+1. Open [Stremio login](https://www.stremio.com/login) and sign in
+2. Sidebar → **Integrations**
+3. Find **Trakt Scrobbling** → click **Authenticate**
+4. Complete the prompts in the new tab
 
-:::: tip Done Right
-You’ll see Trakt connected under Integrations. Playback will scrobble automatically.
-::::
+## Nuvio
+
+1. Open Nuvio and sign in with your [Nuvio account](/install/nuvio).
+2. Sidebar → **Settings** → **Trakt**
+3. Follow the on-screen steps to connect your Trakt account.
+
+Same path (**Settings** → **Trakt**) on Android TV and other platforms.
+
+## Omni
+
+TODO
