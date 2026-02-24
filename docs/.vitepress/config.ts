@@ -98,20 +98,13 @@ export default defineConfig({
         ],
       },
       {
-        text: 'Preparing Your Account',
-        collapsed: false,
-        items: [
-          { text: 'Cinebye', link: '/preparations/cinebye' },
-          { text: 'Trakt (optional)', link: '/preparations/trakt' },
-        ],
-      },
-      {
         text: "Installing Addons",
         collapsed: false,
         items: [
           { text: 'AIOStreams', link: '/addons/aiostreams' },
           { text: 'AIOMetadata', link: '/addons/aiometadata' },
-          { text: 'Cinebye', link: '/addons/cinebye' },
+          { text: 'Trakt (optional)', link: '/preparations/trakt' },
+          { text: 'Cinebye (Stremio only)', link: '/addons/cinebye' },
         ],
       },
       {
