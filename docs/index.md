@@ -1,19 +1,19 @@
 ---
 layout: home
 
-title: 'Stremio Guide'
+title: 'Streaming Guide'
 
 hero:
-  name: "Stremio Guide"
-  text: "Your complete Stremio streaming setup"
-  tagline: A polished, opinionated guide to building a fast, stable, beautiful Stremio experience.
+  name: "Streaming Guide"
+  text: "Nuvio · Omni · Stremio"
+  tagline: One setup. Same addons, same config. Only the app you install is different.
   actions:
     - theme: brand
       text: Get Started
-      link: overview
+      link: install/overview
     - theme: alt
       text: Addons
-      link: addons/overview
+      link: addons/aiostreams
     - theme: alt
       text: Configuration
       link: configuration/formatter
@@ -23,15 +23,15 @@ hero:
 
 
 features:
-  - icon: 🎬
-    title: End‑to‑End Setup
-    details: From accounts to addons to formatting-follow a clean, linear path to a great result.
+  - icon: 📱
+    title: Pick Your App
+    details: Use Nuvio (Android/iOS), Omni (Apple), or Stremio (all platforms). Same addons work everywhere.
   - icon: ⚡
     title: Fast, High‑Quality Streams
     details: Practical defaults that prioritize cached, high‑quality sources for smooth playback.
   - icon: 🧭
-    title: Clear Navigation
-    details: Consistent structure, cross‑links, and checklists so you always know the next step.
+    title: One Linear Guide
+    details: From accounts to addons to formatting-one path for all three apps.
   - icon: 🧰
     title: Copy‑Paste Configs
     details: Prebuilt configurations and templates you can import and tweak in seconds.
