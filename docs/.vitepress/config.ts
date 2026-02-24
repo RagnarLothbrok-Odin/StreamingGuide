@@ -101,8 +101,8 @@ export default defineConfig({
         text: "Installing Addons",
         collapsed: false,
         items: [
-          { text: 'AIOStreams', link: '/addons/aiostreams' },
           { text: 'AIOMetadata', link: '/addons/aiometadata' },
+          { text: 'AIOStreams', link: '/addons/aiostreams' },
           { text: 'Trakt (optional)', link: '/preparations/trakt' },
           { text: 'Cinebye (Stremio only)', link: '/addons/cinebye' },
         ],
