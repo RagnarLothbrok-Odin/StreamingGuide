@@ -93,6 +93,7 @@ export default defineConfig({
           { text: 'Trakt (optional)', link: '/accounts/trakt' },
           { text: 'TMDB', link: '/accounts/tmdb' },
           { text: 'TVDB', link: '/accounts/tvdb' },
+          { text: 'MDBList', link: '/accounts/mdblist' },
           { text: 'FanArt (optional)', link: '/accounts/fanart' },
           { text: 'RPDB (optional)', link: '/accounts/rpdb' },
         ],
